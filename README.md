@@ -1,5 +1,5 @@
 # ZSH Conf
 
 ```sh
-ln -s ~/.dotfiles/zsh/.zshrc ~/.zshrc
+ln -s ~/.config/zsh/.zshrc ~/.zshrc
 ```
